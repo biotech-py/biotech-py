@@ -15,15 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 ### Programming & Data Analytics

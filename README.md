@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ChatGPT Image May 30, 2026, 08_55_00 PM.png" width="100%">
+</p>
+
 # Hi, I'm Nirupam Joarder 👋
 
 🎓 Biotechnology Graduate at NIT Rourkela

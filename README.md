@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nirupam Joarder 👋
 
-<!--
-**biotech-py/biotech-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biotechnology Graduate at NIT Rourkela
 
-Here are some ideas to get you started:
+🔬 Biomaterials | Tissue Engineering | Biomedical Implants
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analytics | Python | Bioinformatics
+
+🚀 Exploring the intersection of Biology and Data
+
+
+## Research Interests
+
+- Biomaterials
+- Drug Delivery Systems
+- Nanofiber Scaffolds
+- Magnesium Biomedical Implants
+- Bioinformatics
+- Data Analytics
+
+
+## Skills
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Git & GitHub
+- Data Visualization

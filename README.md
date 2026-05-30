@@ -49,19 +49,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Current Focus
 
-### 📊 Data Analysis Portfolio
-Collection of Python, NumPy and Pandas projects for real-world data analysis.
+📊 Data Analytics
 
-### 🗄 SQL Analytics Projects
-Business analytics and SQL case studies.
+🧬 Biotechnology & Biomaterials
 
-### 🧬 Biotech Data Science
-Analysis of biological datasets and bioinformatics workflows.
+🐍 Python, Pandas, NumPy
 
-### 📈 Data Visualization Projects
-Interactive and static visualizations using Python.
+📈 Statistics & Data Visualization
+
+### Currently Building
+
+- First Exploratory Data Analysis Project
+- SQL Analytics Portfolio
+- Power BI Skills
+- GitHub Project Portfolio
 
 ---
 

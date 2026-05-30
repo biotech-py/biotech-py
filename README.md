@@ -40,60 +40,44 @@
 <tr>
 <td width="50%">
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=tokyonight" />
+</p>
 
-</td>
+---
 
-<td width="50%">
+## 🛠️ Analytics Toolbox
 
-### Top Languages
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SQL
+- Git & GitHub
+- Statistics
+- Biotechnology & Biomaterials
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛠️ Analytics Toolbox
-
-| Category | Tools |
-|-----------|--------|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib |
-| Database | SQL |
-| Statistics | Descriptive Statistics |
-| Version Control | Git, GitHub |
-| Domain Knowledge | Biotechnology, Biomaterials |
-
-</td>
-
-<td width="50%">
-
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 - Advanced Pandas
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
+- EDA
+- Data Cleaning
 - Statistical Analysis
 - Power BI
 - Tableau
 - Seaborn
-- Data Storytelling
 
-### 🎯 2026 Goals
+---
+
+## 🎯 2026 Goals
 
 - Build 10 Data Analytics Projects
-- Master SQL for Analytics
+- Master SQL
 - Learn Power BI
 - Contribute to Open Source
-- Land a Data Analytics Internship
-
-</td>
-</tr>
-</table>
-
+- Secure a Data Analytics Internship

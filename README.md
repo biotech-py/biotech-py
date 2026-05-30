@@ -27,3 +27,8 @@
 - Matplotlib
 - Git & GitHub
 - Data Visualization
+
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact)

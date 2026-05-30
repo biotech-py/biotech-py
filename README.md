@@ -1,87 +1,102 @@
 <p align="center">
-  <img src="./ChatGPT Image May 30, 2026, 08_55_00 PM.png" width="100%">
+  <img src="./Banner.png" width="100%">
 </p>
 
 # Hi, I'm Nirupam Joarder 👋
 
 🎓 Biotechnology Graduate at NIT Rourkela
 
-🔬 Biomaterials | Tissue Engineering | Biomedical Implants
+🧬 Biomaterials | Tissue Engineering | Biomedical Implants
 
-📊 Data Analytics | Python | Bioinformatics
+📊 Data Analytics | Python | SQL | Bioinformatics
 
 🚀 Exploring the intersection of Biology and Data
 
 
-## Research Interests
-
-- Biomaterials
-- Drug Delivery Systems
-- Nanofiber Scaffolds
-- Magnesium Biomedical Implants
-- Bioinformatics
-- Data Analytics
-
-
-## Skills
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Git & GitHub
-- Data Visualization
-
-## GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=biotech-py&theme=dark)
-
 ---
 
-## 📊 GitHub Stats & Analytics
-
-<table>
-<tr>
-<td width="50%">
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ Analytics Toolbox
+## 🛠 Tech Stack
 
-- Python
+### Programming & Data Analytics
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+### Libraries & Tools
+
 - NumPy
 - Pandas
 - Matplotlib
+- Statistics
 - SQL
 - Git & GitHub
-- Statistics
-- Biotechnology & Biomaterials
+
+---
+
+## 📈 Contribution Graph
+
+[![Nirupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biotech-py&theme=tokyo-night)](https://github.com/biotech-py)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Analysis Portfolio
+Collection of Python, NumPy and Pandas projects for real-world data analysis.
+
+### 🗄 SQL Analytics Projects
+Business analytics and SQL case studies.
+
+### 🧬 Biotech Data Science
+Analysis of biological datasets and bioinformatics workflows.
+
+### 📈 Data Visualization Projects
+Interactive and static visualizations using Python.
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced Pandas
-- EDA
-- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
 - Statistical Analysis
 - Power BI
 - Tableau
 - Seaborn
+- Data Storytelling
 
 ---
 
 ## 🎯 2026 Goals
 
 - Build 10 Data Analytics Projects
-- Master SQL
+- Master SQL for Analytics
 - Learn Power BI
+- Create a Personal Portfolio Website
 - Contribute to Open Source
 - Secure a Data Analytics Internship
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: joardernirupam@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/nirupam-joarder
+
+🐙 GitHub: https://github.com/biotech-py
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!

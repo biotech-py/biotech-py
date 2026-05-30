@@ -28,7 +28,8 @@
 - Git & GitHub
 - Data Visualization
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true)
+## GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=biotech-py&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=dark)

@@ -51,6 +51,47 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 📊 Clinical Data Analytics Project
+
+Interactive clinical trial analytics dashboard built using Python, Pandas, and Power BI to analyze patient outcomes and clinical indicators.
+
+🔗 Repository: https://github.com/biotech-py/Clinical_Data_Analytics_Project
+
+---
+
+### 🧬 Biomedical EDA Project
+
+Exploratory Data Analysis (EDA) on the Pima Indians Diabetes Dataset to identify patterns, risk factors, and relationships associated with diabetes.
+
+🔗 Repository: https://github.com/biotech-py/Biomedical_EDA_Project
+
+---
+
+### 💼 Sales Analytics Project
+
+Business sales analytics project focusing on revenue trends, customer behavior, and sales performance insights.
+
+🔗 Repository: https://github.com/biotech-py/Sales_Analytics_Project
+
+---
+
+### 🗄️ SQL Analytics Project
+
+SQL-based data analysis project demonstrating data extraction, querying, aggregation, joins, and business insights generation.
+
+🔗 Repository: https://github.com/biotech-py/SQL_Analytics_Project
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=biotech-py&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 ## 🎯 Current Focus
 
 📊 Data Analytics

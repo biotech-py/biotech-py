@@ -36,11 +36,11 @@
 
 ## 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=biotech-py&theme=dark)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=dark)
 
 ---
 

@@ -33,19 +33,11 @@
 - Git & GitHub
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=dark" />
-</p>
+## 📊 Nirupam Joarder's GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=biotech-py&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=biotech-py&theme=dark&hide_border=true" />
 </p>
 
 ---

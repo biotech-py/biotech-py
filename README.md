@@ -53,35 +53,15 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Clinical Data Analytics Project
 
-Interactive clinical trial analytics dashboard built using Python, Pandas, and Power BI to analyze patient outcomes and clinical indicators.
+[![Clinical Data Analytics](https://img.shields.io/badge/Clinical_Data_Analytics-View_Project-blue?style=for-the-badge)](https://github.com/biotech-py/Clinical_Data_Analytics_Project)
 
-🔗 Repository: https://github.com/biotech-py/Clinical_Data_Analytics_Project
+[![Biomedical EDA](https://img.shields.io/badge/Biomedical_EDA-View_Project-green?style=for-the-badge)](https://github.com/biotech-py/Biomedical_EDA_Project)
 
----
+[![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-View_Project-orange?style=for-the-badge)](https://github.com/biotech-py/Sales_Analytics_Project)
 
-### 🧬 Biomedical EDA Project
+[![SQL Analytics](https://img.shields.io/badge/SQL_Analytics-View_Project-purple?style=for-the-badge)](https://github.com/biotech-py/SQL_Analytics_Project)
 
-Exploratory Data Analysis (EDA) on the Pima Indians Diabetes Dataset to identify patterns, risk factors, and relationships associated with diabetes.
-
-🔗 Repository: https://github.com/biotech-py/Biomedical_EDA_Project
-
----
-
-### 💼 Sales Analytics Project
-
-Business sales analytics project focusing on revenue trends, customer behavior, and sales performance insights.
-
-🔗 Repository: https://github.com/biotech-py/Sales_Analytics_Project
-
----
-
-### 🗄️ SQL Analytics Project
-
-SQL-based data analysis project demonstrating data extraction, querying, aggregation, joins, and business insights generation.
-
-🔗 Repository: https://github.com/biotech-py/SQL_Analytics_Project
 
 ---
 

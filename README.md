@@ -53,16 +53,21 @@
 
 ## 🚀 Featured Projects
 
+🩺 **Healthcare & Machine Learning**
+
+[![Diabetes Risk Prediction & Clinical Analytics](https://img.shields.io/badge/Diabetes_Risk_Prediction_&_Clinical_Analytics-View_Project-red?style=for-the-badge)](https://github.com/biotech-py/Diabetes-Risk-Prediction-Clinical-Analytics)
 
 [![Clinical Data Analytics](https://img.shields.io/badge/Clinical_Data_Analytics-View_Project-blue?style=for-the-badge)](https://github.com/biotech-py/Clinical_Data_Analytics_Project)
 
+🧬 **Biomedical Analytics**
+
 [![Biomedical EDA](https://img.shields.io/badge/Biomedical_EDA-View_Project-green?style=for-the-badge)](https://github.com/biotech-py/Biomedical_EDA_Project)
+
+📈 **Business Analytics**
 
 [![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-View_Project-orange?style=for-the-badge)](https://github.com/biotech-py/Sales_Analytics_Project)
 
 [![SQL Analytics](https://img.shields.io/badge/SQL_Analytics-View_Project-purple?style=for-the-badge)](https://github.com/biotech-py/SQL_Analytics_Project)
-
-
 ---
 
 ## 👀 Profile Visitors

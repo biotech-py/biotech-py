@@ -36,10 +36,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biotech-py&show_icons=true&theme=dark&hide_border=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=biotech-py&theme=dark&hide_border=true" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph

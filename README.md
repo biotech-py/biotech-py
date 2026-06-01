@@ -33,7 +33,7 @@
 - Git & GitHub
 
 ---
-## 📊 Nirupam Joarder's GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=dark&hide_border=true" />

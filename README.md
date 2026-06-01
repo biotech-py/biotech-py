@@ -34,6 +34,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biotech-py&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=biotech-py&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biotech-py&layout=compact&theme=dark)
+
+---
+
 ## 📈 Contribution Graph
 
 [![Nirupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biotech-py&theme=tokyo-night)](https://github.com/biotech-py)

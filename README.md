@@ -36,8 +36,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biotech-py&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=biotech-py&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biotech-py&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=biotech-py&theme=dark&hide_border=true" />
 </p>
 
 ---

@@ -53,6 +53,15 @@
 
 ## 🚀 Featured Projects
 
+### 🦴 Magnesium Implant Digital Twin
+Digital Twin platform for biodegradable magnesium implants with corrosion prediction and materials characterization.
+
+🔗 Live Demo:
+https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/
+
+🛠️ Tech Stack:
+Python • Streamlit • Plotly • Pandas • Biomaterials • Corrosion Science
+
 🩺 **Healthcare & Machine Learning**
 
 [![Diabetes Risk Prediction & Clinical Analytics](https://img.shields.io/badge/Diabetes_Risk_Prediction_&_Clinical_Analytics-View_Project-red?style=for-the-badge)](https://github.com/biotech-py/Diabetes-Risk-Prediction-Clinical-Analytics)

@@ -53,14 +53,10 @@
 
 ## 🚀 Featured Projects
 
-### 🦴 Magnesium Implant Digital Twin
-Digital Twin platform for biodegradable magnesium implants with corrosion prediction and materials characterization.
+## 🦴 Research & Biomaterials
 
-🔗 Live Demo:
-https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/
-
-🛠️ Tech Stack:
-Python • Streamlit • Plotly • Pandas • Biomaterials • Corrosion Science
+[![MAGNESIUM IMPLANT DIGITAL TWIN](https://img.shields.io/badge/MAGNESIUM_IMPLANT_DIGITAL_TWIN-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Magnesium_Implant_Digital_Twin)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/)
 
 🩺 **Healthcare & Machine Learning**
 

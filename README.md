@@ -58,7 +58,7 @@
 [![BIOMEDICAL RESEARCH PAPER ANALYZER](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_PAPER_ANALYZER-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer)
 [![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://biomedical-research-paper-analyzer.streamlit.app/)
 
-## 🦴 Research & Biomaterials
+🦴 **Research & Biomaterials**
 
 [![MAGNESIUM IMPLANT DIGITAL TWIN](https://img.shields.io/badge/MAGNESIUM_IMPLANT_DIGITAL_TWIN-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Magnesium_Implant_Digital_Twin)
 [![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/)

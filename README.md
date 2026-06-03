@@ -6,12 +6,13 @@
 
 🎓 Biotechnology Graduate at NIT Rourkela
 
-🧬 Biomaterials | Tissue Engineering | Biomedical Implants
+🧬 Biomaterials | Biomedical Implants | Tissue Engineering
 
-📊 Data Analytics | Python | SQL | Bioinformatics
+🤖 AI in Healthcare | Biomedical Research Analytics
 
-🚀 Exploring the intersection of Biology and Data
+📊 Python | SQL | Data Analytics | Streamlit
 
+🚀 Building Intelligent Solutions for Healthcare, Research and Biotechnology
 
 ---
 

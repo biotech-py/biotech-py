@@ -53,6 +53,11 @@
 
 ## 🚀 Featured Projects
 
+🧬 **AI & Biomedical Research**
+
+[![BIOMEDICAL RESEARCH PAPER ANALYZER](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_PAPER_ANALYZER-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://biomedical-research-paper-analyzer.streamlit.app/)
+
 ## 🦴 Research & Biomaterials
 
 [![MAGNESIUM IMPLANT DIGITAL TWIN](https://img.shields.io/badge/MAGNESIUM_IMPLANT_DIGITAL_TWIN-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Magnesium_Implant_Digital_Twin)
@@ -73,6 +78,7 @@
 [![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-View_Project-orange?style=for-the-badge)](https://github.com/biotech-py/Sales_Analytics_Project)
 
 [![SQL Analytics](https://img.shields.io/badge/SQL_Analytics-View_Project-purple?style=for-the-badge)](https://github.com/biotech-py/SQL_Analytics_Project)
+
 ---
 
 ## 👀 Profile Visitors

@@ -90,45 +90,67 @@
 
 ## 🎯 Current Focus
 
-📊 Data Analytics
+📊 Data Analytics & AI
 
-🧬 Biotechnology & Biomaterials
+🧬 Biotechnology, Biomaterials & Healthcare
 
-🐍 Python, Pandas, NumPy
+🤖 Generative AI Applications in Research
 
-📈 Statistics & Data Visualization
+🐍 Python, Pandas, NumPy & Streamlit
+
+📈 Data Visualization & Business Intelligence
 
 ### Currently Building
 
-- First Exploratory Data Analysis Project
-- SQL Analytics Portfolio
-- Power BI Skills
-- GitHub Project Portfolio
+• AI-Powered Biomedical Applications
+
+• End-to-End Data Analytics Portfolio
+
+• Healthcare & Clinical Analytics Projects
+
+• Research-Oriented AI Tools
+
+• Open-Source Technical Portfolio
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Pandas
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Statistical Analysis
-- Power BI
-- Tableau
-- Seaborn
-- Data Storytelling
+• Machine Learning Fundamentals
+
+• Advanced Data Analytics
+
+• Power BI & Dashboard Development
+
+• Statistical Analysis for Research
+
+• Healthcare Data Analytics
+
+• AI Applications in Biotechnology
+
+• SQL for Data Analysis
+
+• Deployment & MLOps Basics
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build 10 Data Analytics Projects
-- Master SQL for Analytics
-- Learn Power BI
-- Create a Personal Portfolio Website
-- Contribute to Open Source
-- Secure a Data Analytics Internship
+• Secure a Research, Bioinformatics, AI or Data Analytics Role
 
+• Build 10+ High-Quality Portfolio Projects
+
+• Master Power BI & SQL
+
+• Publish Biomedical AI Projects
+
+• Contribute to Open Source
+
+• Grow GitHub Portfolio to 500+ Contributions
+
+• Pursue AI & Data Analytics Opportunities in Healthcare
+
+• Develop Industry-Ready Analytics & Research Skills
 ---
 
 ## 📫 Connect With Me

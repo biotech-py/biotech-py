@@ -18,22 +18,48 @@
 
 ## 🛠 Tech Stack
 
-### Programming & Data Analytics
+### Languages & Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
+- Python
+- SQL (MySQL)
 
-### Libraries & Tools
+### Data Analytics
 
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
-- Statistics
-- SQL
-- Git & GitHub
+- Plotly
+- Statistical Analysis
 
+### AI & Automation
+
+- Google Gemini AI
+- Prompt Engineering
+- Research Analytics
+- Clinical Data Analytics
+
+### Development
+
+- Streamlit
+- Git
+- GitHub
+- VS Code
+
+### Deployment
+
+- Streamlit Cloud
+- PDF Processing
+- Automated Report Generation
+
+### Domain Expertise
+
+- Biomaterials
+- Tissue Engineering
+- Biomedical Implants
+- Biomedical Research Analytics
+  
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">

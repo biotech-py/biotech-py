@@ -4,63 +4,204 @@
 
 # Hi, I'm Nirupam Joarder 👋
 
-🎓 Biotechnology Graduate at NIT Rourkela
+🎓 Biotechnology Graduate from NIT Rourkela
 
-🧬 Biomaterials | Biomedical Implants | Tissue Engineering
+🧬 Bioinformatics | Computational Biology | Structural Biology
 
-🤖 AI in Healthcare | Biomedical Research Analytics
+💊 Computational Drug Discovery | AI in Healthcare
 
-📊 Python | SQL | Data Analytics | Streamlit
+🤖 Biomedical Research Analytics | Scientific Computing
 
-🚀 Building Intelligent Solutions for Healthcare, Research and Biotechnology
+🐍 Python | SQL | Data Analytics | Streamlit
+
+🚀 Building data-driven and AI-powered solutions at the intersection of Biotechnology, Bioinformatics, Healthcare, and Drug Discovery.
 
 ---
 
-## 🛠 Tech Stack
+## 🔬 Research Interests
 
-### Languages & Databases
+* Structural Bioinformatics
+* Protein Structure Analysis
+* Protein-Ligand Interaction Analysis
+* Computational Drug Discovery
+* Cancer Biology
+* Molecular Docking
+* AI for Drug Discovery
+* Biomedical Data Science
+* Biomaterials & Biomedical Implants
 
-- Python
-- SQL (MySQL)
+---
 
-### Data Analytics
+## 🛠 Technical Skills
 
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Statistical Analysis
+### Programming & Databases
 
-### AI & Automation
+* Python
+* SQL (MySQL)
 
-- Google Gemini AI
-- Prompt Engineering
-- Research Analytics
-- Clinical Data Analytics
+### Bioinformatics & Computational Biology
 
-### Development
+* BioPython
+* AlphaFold Structure Analysis
+* Protein Structure Analysis
+* Protein-Ligand Interaction Analysis
+* Structural Bioinformatics
+* Comparative Sequence Analysis
+* Mutation Impact Analysis
 
-- Streamlit
-- Git
-- GitHub
-- VS Code
+### Data Science & Analytics
 
-### Deployment
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* Statistical Analysis
+* Exploratory Data Analysis (EDA)
 
-- Streamlit Cloud
-- PDF Processing
-- Automated Report Generation
+### AI & Machine Learning
+
+* Google Gemini AI
+* Prompt Engineering
+* Biomedical Research Analytics
+* Clinical Data Analytics
+* AI-Assisted Research Workflows
+
+### Development & Deployment
+
+* Streamlit
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
 
 ### Domain Expertise
 
-- Biomaterials
-- Tissue Engineering
-- Biomedical Implants
-- Biomedical Research Analytics
-  
+* Biotechnology
+* Bioinformatics
+* Computational Biology
+* Biomaterials
+* Tissue Engineering
+* Biomedical Implants
+* Healthcare Analytics
+
 ---
 
-## 📊 GitHub Stats
+# 🧬 Featured Bioinformatics & Computational Biology Projects
+
+## 🧬 p53 AlphaFold Structure Analysis
+
+Structural analysis of the tumor suppressor protein p53 using AlphaFold-predicted structures. The project explores structural confidence, domain organization, and biological relevance using BioPython and structural bioinformatics techniques.
+
+🔗 Repository:
+https://github.com/biotech-py/p53-AlphaFold-Structure-Analysis
+
+---
+
+## 💊 EGFR–Gefitinib Interaction Analysis
+
+Structural bioinformatics analysis of the EGFR kinase domain bound to Gefitinib (PDB ID: 4WKQ). The project identifies key binding pocket residues and visualizes protein-ligand interactions relevant to targeted cancer therapy.
+
+🔗 Repository:
+https://github.com/biotech-py/EGFR_Gefitinib_Interaction_Analysis
+
+---
+
+## 🧪 Insulin Mutation Impact Analysis
+
+Computational investigation of disease-associated insulin mutations through sequence and structural analysis to understand their potential biological consequences.
+
+🔗 Repository:
+https://github.com/biotech-py/Insulin-Mutation-Impact-Analysis
+
+---
+
+## 🐒 Primate Insulin Comparative Analysis
+
+Comparative sequence analysis of insulin proteins across primate species using BioPython to study conservation and evolutionary relationships.
+
+🔗 Repository:
+https://github.com/biotech-py/Primate-Insulin-Bioinformatics-Analysis
+
+---
+
+# 🤖 AI & Biomedical Research Projects
+
+## 📄 Biomedical Research Paper Analyzer
+
+AI-powered biomedical literature analysis platform developed using Streamlit and Gemini AI. Enables research paper summarization, key finding extraction, and interactive question answering.
+
+🔗 Repository:
+https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer
+
+🌐 Live Demo:
+https://biomedical-research-paper-analyzer.streamlit.app/
+
+---
+
+# ⚙️ Biomaterials & Biomedical Engineering Projects
+
+## 🦴 Magnesium Implant Digital Twin
+
+Digital twin framework for biodegradable magnesium implants integrating corrosion, degradation, and biomedical characterization data.
+
+🔗 Repository:
+https://github.com/biotech-py/Magnesium_Implant_Digital_Twin
+
+🌐 Live Demo:
+https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/
+
+---
+
+# 📊 Healthcare & Biomedical Analytics Projects
+
+## 🩺 Diabetes Risk Prediction & Clinical Analytics
+
+Machine learning and healthcare analytics project focused on diabetes risk assessment and identification of clinical risk factors.
+
+🔗 Repository:
+https://github.com/biotech-py/Diabetes-Risk-Prediction-Clinical-Analytics
+
+---
+
+## 🏥 Clinical Data Analytics Project
+
+Healthcare analytics project utilizing Python, Pandas, NumPy, and Power BI to analyze patient trends and clinical indicators.
+
+🔗 Repository:
+https://github.com/biotech-py/Clinical_Data_Analytics_Project
+
+---
+
+## 🧬 Biomedical EDA Project
+
+Exploratory data analysis of biomedical datasets using Python and statistical visualization techniques.
+
+🔗 Repository:
+https://github.com/biotech-py/Biomedical_EDA_Project
+
+---
+
+# 📈 Business & SQL Analytics Projects
+
+## 📊 Sales Analytics Project
+
+Business intelligence and sales analytics project using Python for trend analysis and performance evaluation.
+
+🔗 Repository:
+https://github.com/biotech-py/Sales_Analytics_Project
+
+---
+
+## 🗄 SQL Analytics Project
+
+Business analytics project utilizing SQL for KPI analysis, trend detection, customer segmentation, and reporting.
+
+🔗 Repository:
+https://github.com/biotech-py/SQL_Analytics_Project
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biotech-py&theme=github_dark" />
@@ -74,120 +215,67 @@
 
 ## 📈 Contribution Graph
 
-[![Nirupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biotech-py&theme=tokyo-night)](https://github.com/biotech-py)
+[![Nirupam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=biotech-py\&theme=tokyo-night)](https://github.com/biotech-py)
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 Current Focus
 
-🧬 **AI & Biomedical Research**
+🧬 Structural Bioinformatics
 
-[![BIOMEDICAL RESEARCH PAPER ANALYZER](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_PAPER_ANALYZER-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer)
-[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://biomedical-research-paper-analyzer.streamlit.app/)
+💊 Computational Drug Discovery
 
-🦴 **Research & Biomaterials**
+🤖 AI for Biomedical Research
 
-[![MAGNESIUM IMPLANT DIGITAL TWIN](https://img.shields.io/badge/MAGNESIUM_IMPLANT_DIGITAL_TWIN-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Magnesium_Implant_Digital_Twin)
-[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/)
+📊 Healthcare Data Analytics
 
-🩺 **Healthcare & Machine Learning**
-
-[![Diabetes Risk Prediction & Clinical Analytics](https://img.shields.io/badge/Diabetes_Risk_Prediction_&_Clinical_Analytics-View_Project-red?style=for-the-badge)](https://github.com/biotech-py/Diabetes-Risk-Prediction-Clinical-Analytics)
-
-[![Clinical Data Analytics](https://img.shields.io/badge/Clinical_Data_Analytics-View_Project-blue?style=for-the-badge)](https://github.com/biotech-py/Clinical_Data_Analytics_Project)
-
-🧬 **Biomedical Analytics**
-
-[![Biomedical EDA](https://img.shields.io/badge/Biomedical_EDA-View_Project-green?style=for-the-badge)](https://github.com/biotech-py/Biomedical_EDA_Project)
-
-📈 **Business Analytics**
-
-[![Sales Analytics](https://img.shields.io/badge/Sales_Analytics-View_Project-orange?style=for-the-badge)](https://github.com/biotech-py/Sales_Analytics_Project)
-
-[![SQL Analytics](https://img.shields.io/badge/SQL_Analytics-View_Project-purple?style=for-the-badge)](https://github.com/biotech-py/SQL_Analytics_Project)
+🐍 Scientific Computing with Python
 
 ---
 
-## 👀 Profile Visitors
+# 🚀 Currently Building
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biotech-py&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-
-## 🎯 Current Focus
-
-📊 Data Analytics & AI
-
-🧬 Biotechnology, Biomaterials & Healthcare
-
-🤖 Generative AI Applications in Research
-
-🐍 Python, Pandas, NumPy & Streamlit
-
-📈 Data Visualization & Business Intelligence
-
-### Currently Building
-
-• AI-Powered Biomedical Applications
-
-• End-to-End Data Analytics Portfolio
-
-• Healthcare & Clinical Analytics Projects
-
-• Research-Oriented AI Tools
-
-• Open-Source Technical Portfolio
+* EGFR T790M Drug Resistance Analysis
+* Molecular Docking Projects
+* Computational Drug Discovery Portfolio
+* AI-Powered Biomedical Applications
+* Open-Source Bioinformatics Projects
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-• Machine Learning Fundamentals
-
-• Advanced Data Analytics
-
-• Power BI & Dashboard Development
-
-• Statistical Analysis for Research
-
-• Healthcare Data Analytics
-
-• AI Applications in Biotechnology
-
-• SQL for Data Analysis
-
-• Deployment & MLOps Basics
+* Structural Bioinformatics
+* Molecular Docking
+* Protein-Ligand Interaction Analysis
+* Computational Drug Discovery
+* Machine Learning for Drug Discovery
+* AI Applications in Biotechnology
+* Advanced Scientific Python Ecosystem
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-• Secure a Research, Bioinformatics, AI or Data Analytics Role
+* Secure a Bioinformatics, Computational Biology, AI, or Research Role
+* Build a Strong Computational Drug Discovery Portfolio
+* Complete 10+ Research-Oriented Bioinformatics Projects
+* Learn Molecular Docking & Virtual Screening
+* Develop AI-Powered Biomedical Applications
+* Contribute to Open-Source Bioinformatics Projects
+* Pursue Opportunities in AI Drug Discovery
+* Grow as a Computational Biologist and Research Professional
 
-• Build 10+ High-Quality Portfolio Projects
-
-• Master Power BI & SQL
-
-• Publish Biomedical AI Projects
-
-• Contribute to Open Source
-
-• Grow GitHub Portfolio to 500+ Contributions
-
-• Pursue AI & Data Analytics Opportunities in Healthcare
-
-• Develop Industry-Ready Analytics & Research Skills
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: joardernirupam@gmail.com
+📧 Email: [joardernirupam@gmail.com](mailto:joardernirupam@gmail.com)
 
-💼 LinkedIn: www.linkedin.com/in/nirupam-joarder
+💼 LinkedIn: [www.linkedin.com/in/nirupam-joarder](http://www.linkedin.com/in/nirupam-joarder)
 
 🐙 GitHub: https://github.com/biotech-py
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, connect with me, and follow my journey in Bioinformatics, Computational Biology, and AI-Driven Drug Discovery.

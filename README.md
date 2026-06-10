@@ -35,12 +35,13 @@
 
 [![EGFR Gefitinib Interaction Analysis](https://img.shields.io/badge/EGFR_Gefitinib_Interaction_Analysis-00C853?style=for-the-badge)](https://github.com/biotech-py/EGFR_Gefitinib_Interaction_Analysis)
 
+[![EGFR T790M Drug Resistance Analysis](https://img.shields.io/badge/EGFR_T790M_Drug_Resistance_Analysis-8A2BE2?style=for-the-badge)](https://github.com/biotech-py/EGFR_T790M_Drug_Resistance_Analysis)
+
 [![p53 AlphaFold Structure Analysis](https://img.shields.io/badge/p53_AlphaFold_Structure_Analysis-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/p53-AlphaFold-Structure-Analysis)
 
 [![Insulin Mutation Impact Analysis](https://img.shields.io/badge/Insulin_Mutation_Impact_Analysis-1976D2?style=for-the-badge)](https://github.com/biotech-py/Insulin-Mutation-Impact-Analysis)
 
 [![Primate Insulin Bioinformatics Analysis](https://img.shields.io/badge/Primate_Insulin_Bioinformatics_Analysis-7B1FA2?style=for-the-badge)](https://github.com/biotech-py/Primate-Insulin-Bioinformatics-Analysis)
-
 ---
 
 ### 🤖 AI & Biomedical Research

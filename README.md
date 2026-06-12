@@ -12,7 +12,7 @@
 
 💻 Python | Biopython | SQL | Streamlit
 
-🚀 Building computational solutions for biotechnology, bioinformatics, and drug discovery.
+🚀 Building AI-driven solutions for bioinformatics, drug discovery, and biomedical research.
 
 ---
 

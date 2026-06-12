@@ -132,15 +132,6 @@ Focus:
 
 ---
 
-## 🎯 Current Interests
-
-* Structural Bioinformatics
-* Computational Drug Discovery
-* Molecular Docking
-* Cancer Biology
-* AI for Drug Discovery
-* Biomedical Data Science
-
 
 ### 🤖 AI & Biomedical Research
 
@@ -165,6 +156,17 @@ Focus:
 [![Clinical Data Analytics](https://img.shields.io/badge/Clinical_Data_Analytics-View_Project-blue?style=for-the-badge)](https://github.com/biotech-py/Clinical_Data_Analytics_Project)
 
 [![Biomedical EDA](https://img.shields.io/badge/Biomedical_EDA-View_Project-green?style=for-the-badge)](https://github.com/biotech-py/Biomedical_EDA_Project)
+
+---
+
+## 🎯 Current Interests
+
+* Structural Bioinformatics
+* Computational Drug Discovery
+* Molecular Docking
+* Cancer Biology
+* AI for Drug Discovery
+* Biomedical Data Science
 
 ---
 

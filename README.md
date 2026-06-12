@@ -8,7 +8,7 @@
 
 🧬 Bioinformatics | Computational Biology | Structural Biology
 
-💊 Computational Drug Discovery | AI for Biomedical Research
+🤖 Machine Learning | Data Analytics | AI for Biomedical Research | Computational Drug Discovery
 
 🐍 Python | BioPython | SQL | Streamlit
 

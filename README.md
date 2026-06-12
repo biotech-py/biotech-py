@@ -76,6 +76,9 @@ EGFR T790M Computational Drug Discovery
 
 ### 🚀 Phase 5 — Computational Drug Discovery
 • EGFR T790M Computational Drug Discovery  
+
+--- 
+
 ### 🤖 AI & Biomedical Research
 
 [![BIOMEDICAL RESEARCH PAPER ANALYZER](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_PAPER_ANALYZER-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer)

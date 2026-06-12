@@ -107,12 +107,12 @@ EGFR T790M Computational Drug Discovery
 
 ## 🎯 Current Interests
 
-• Computational Drug Discovery
-• Structural Bioinformatics
-• Molecular Docking & Virtual Screening
-• Cancer Biology
-• AI for Drug Discovery
-• Biomedical Data Science
+* Computational Drug Discovery
+* Structural Bioinformatics
+* Molecular Docking & Virtual Screening
+* Cancer Biology
+* AI for Drug Discovery
+* Biomedical Data Science
 
 ---
 
@@ -120,32 +120,31 @@ EGFR T790M Computational Drug Discovery
 
 **Bioinformatics**
 
-• BioPython
-• Structural Bioinformatics
-• Protein Structure Analysis
-• Protein–Ligand Interaction Analysis
-• Molecular Docking (AutoDock Vina)
-• Binding Pocket Analysis
-• Comparative Sequence Analysis
-• AlphaFold Structure Analysis
+* BioPython
+* Structural Bioinformatics
+* Protein Structure Analysis
+* Protein–Ligand Interaction Analysis
+* Molecular Docking (AutoDock Vina)
+* Binding Pocket Analysis
+* Comparative Sequence Analysis
+* AlphaFold Structure Analysis
 
 **Programming & Analytics**
 
-• Python
-• SQL
-• Pandas
-• NumPy
-• Matplotlib
-• Streamlit
+* Python
+* SQL
+* Pandas
+* NumPy
+* Matplotlib
+* Streamlit
 
 **AI & Research**
 
-• Biomedical Research Analytics
-• Clinical Data Analytics
-• AI Applications in Drug Discovery
-• Generative AI Applications
-• Scientific Computing
-
+* Biomedical Research Analytics
+* Clinical Data Analytics
+* AI Applications in Drug Discovery
+* Generative AI Applications
+* Scientific Computing
 ---
 
 ## 🚀 Currently Building

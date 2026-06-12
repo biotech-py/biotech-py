@@ -33,35 +33,47 @@
 
 ## 🧬 Bioinformatics & Computational Biology
 
-### 🏆 EGFR T790M Computational Drug Discovery
+<p align="center">
 
-Molecular docking and comparative inhibitor screening against the EGFR T790M drug-resistance mutation using AutoDock Vina and PyMOL.
+<a href="https://github.com/biotech-py/EGFR_T790M_Computational_Drug_Discovery">
+<img src="https://img.shields.io/badge/EGFR_T790M_COMPUTATIONAL_DRUG_DISCOVERY-8A2BE2?style=for-the-badge"/>
+</a>
 
-### ⚠️ EGFR T790M Drug Resistance Analysis
+<br><br>
 
-Structural investigation of the clinically important EGFR T790M mutation and its role in resistance to first-generation EGFR inhibitors.
+<a href="https://github.com/biotech-py/EGFR_T790M_Drug_Resistance_Analysis">
+<img src="https://img.shields.io/badge/EGFR_T790M_DRUG_RESISTANCE_ANALYSIS-9932CC?style=for-the-badge"/>
+</a>
 
-### 💊 EGFR Gefitinib Interaction Analysis
+<br><br>
 
-Protein–ligand interaction analysis of the EGFR–Gefitinib complex with binding pocket characterization and structural visualization.
+<a href="https://github.com/biotech-py/EGFR_Gefitinib_Interaction_Analysis">
+<img src="https://img.shields.io/badge/EGFR_GEFITINIB_INTERACTION_ANALYSIS-00C853?style=for-the-badge"/>
+</a>
 
-### 🧪 p53 AlphaFold Structure Analysis
+<br><br>
 
-Structural analysis of the tumor suppressor protein p53 using AlphaFold predictions and bioinformatics tools.
+<a href="https://github.com/biotech-py/p53_AlphaFold_Structure_Analysis">
+<img src="https://img.shields.io/badge/P53_ALPHAFOLD_STRUCTURE_ANALYSIS-607D8B?style=for-the-badge"/>
+</a>
 
-### 🧬 Insulin Mutation Impact Analysis
+<br><br>
 
-Computational investigation of disease-associated insulin mutations and their structural consequences.
+<a href="https://github.com/biotech-py/Insulin_Mutation_Impact_Analysis">
+<img src="https://img.shields.io/badge/INSULIN_MUTATION_IMPACT_ANALYSIS-1976D2?style=for-the-badge"/>
+</a>
 
-### 🌍 Primate Insulin Comparative Analysis
+<br><br>
 
-Comparative sequence and evolutionary analysis of insulin across different primate species.
+<a href="https://github.com/biotech-py/Primate_Insulin_Comparative_Analysis">
+<img src="https://img.shields.io/badge/PRIMATE_INSULIN_COMPARATIVE_ANALYSIS-8A2BE2?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
 # 📚 Bioinformatics Learning Journey
-
-My bioinformatics learning pathway has progressed from sequence analysis and mutation studies to structural biology and computational drug discovery.
 
 ```text
 Primate Insulin Comparative Analysis
@@ -78,61 +90,20 @@ EGFR T790M Computational Drug Discovery
 ```
 
 ### 🌱 Phase 1 — Foundations of Bioinformatics
-
-* Primate Insulin Comparative Analysis
-* Insulin Mutation Impact Analysis
-
-Focus:
-
-* Sequence analysis
-* Evolutionary bioinformatics
-* Mutation analysis
-* BioPython fundamentals
+• Primate Insulin Comparative Analysis  
+• Insulin Mutation Impact Analysis  
 
 ### 🧬 Phase 2 — Structural Biology
-
-* p53 AlphaFold Structure Analysis
-
-Focus:
-
-* Protein structure prediction
-* AlphaFold
-* Structural visualization
+• p53 AlphaFold Structure Analysis  
 
 ### 💊 Phase 3 — Protein–Ligand Interactions
-
-* EGFR Gefitinib Interaction Analysis
-
-Focus:
-
-* Binding pocket identification
-* Ligand interaction analysis
-* Therapeutic target investigation
+• EGFR Gefitinib Interaction Analysis  
 
 ### ⚠️ Phase 4 — Drug Resistance Mechanisms
-
-* EGFR T790M Drug Resistance Analysis
-
-Focus:
-
-* Resistance mutations
-* Structural mechanisms of drug failure
-* Cancer biology
+• EGFR T790M Drug Resistance Analysis  
 
 ### 🚀 Phase 5 — Computational Drug Discovery
-
-* EGFR T790M Computational Drug Discovery
-
-Focus:
-
-* Molecular docking
-* Virtual screening
-* Comparative inhibitor evaluation
-* Structure-based drug discovery
-
----
-
-
+• EGFR T790M Computational Drug Discovery  
 ### 🤖 AI & Biomedical Research
 
 [![BIOMEDICAL RESEARCH PAPER ANALYZER](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_PAPER_ANALYZER-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer)

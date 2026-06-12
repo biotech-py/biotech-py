@@ -4,15 +4,15 @@
 
 # Hi, I'm Nirupam Joarder 👋
 
-🎓 Biotechnology Graduate from NIT Rourkela
+🎓 Biotechnology Graduate | NIT Rourkela
 
 🧬 Bioinformatics | Computational Biology | Structural Biology
 
 🤖 Machine Learning | Data Analytics | AI for Biomedical Research | Computational Drug Discovery
 
-🐍 Python | BioPython | SQL | Streamlit
+💻 Python | Biopython | SQL | Streamlit
 
-🚀 Building projects at the intersection of Biotechnology, AI, Bioinformatics, and Drug Discovery.
+🚀 Building computational solutions for biotechnology, bioinformatics, and drug discovery.
 
 ---
 

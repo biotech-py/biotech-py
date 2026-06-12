@@ -33,45 +33,17 @@
 
 ## 🧬 Bioinformatics & Computational Biology
 
-<p align="center">
-
-<a href="https://github.com/biotech-py/EGFR_T790M_Computational_Drug_Discovery">
-<img src="https://img.shields.io/badge/EGFR_T790M_COMPUTATIONAL_DRUG_DISCOVERY-8A2BE2?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/biotech-py/EGFR_T790M_Drug_Resistance_Analysis">
-<img src="https://img.shields.io/badge/EGFR_T790M_DRUG_RESISTANCE_ANALYSIS-9932CC?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/biotech-py/EGFR_Gefitinib_Interaction_Analysis">
-<img src="https://img.shields.io/badge/EGFR_GEFITINIB_INTERACTION_ANALYSIS-00C853?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/biotech-py/p53_AlphaFold_Structure_Analysis">
-<img src="https://img.shields.io/badge/P53_ALPHAFOLD_STRUCTURE_ANALYSIS-607D8B?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/biotech-py/Insulin_Mutation_Impact_Analysis">
-<img src="https://img.shields.io/badge/INSULIN_MUTATION_IMPACT_ANALYSIS-1976D2?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/biotech-py/Primate_Insulin_Comparative_Analysis">
-<img src="https://img.shields.io/badge/PRIMATE_INSULIN_COMPARATIVE_ANALYSIS-8A2BE2?style=for-the-badge"/>
-</a>
-
-</p>
+| Project | Description |
+|----------|-------------|
+| 🏆 **EGFR T790M Computational Drug Discovery** | Molecular docking and inhibitor screening against the EGFR T790M drug-resistance mutation using AutoDock Vina and PyMOL. |
+| ⚠️ **EGFR T790M Drug Resistance Analysis** | Structural investigation of the clinically important EGFR T790M mutation and its role in resistance to first-generation EGFR inhibitors. |
+| 💊 **EGFR Gefitinib Interaction Analysis** | Protein–ligand interaction analysis of the EGFR–Gefitinib complex with binding pocket characterization and structural visualization. |
+| 🧬 **p53 AlphaFold Structure Analysis** | Structural analysis of the tumor suppressor protein p53 using AlphaFold predictions and bioinformatics tools. |
+| 🧪 **Insulin Mutation Impact Analysis** | Computational investigation of disease-associated insulin mutations and their structural consequences. |
+| 🌍 **Primate Insulin Comparative Analysis** | Comparative sequence and evolutionary analysis of insulin across different primate species. |
 
 ---
+
 
 # 📚 Bioinformatics Learning Journey
 

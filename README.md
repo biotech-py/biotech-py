@@ -29,21 +29,118 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧬 Bioinformatics & Computational Biology
+## 🧬 Bioinformatics & Computational Biology
 
-[![Primate Insulin Bioinformatics Analysis](https://img.shields.io/badge/Primate_Insulin_Bioinformatics_Analysis-7B1FA2?style=for-the-badge)](https://github.com/biotech-py/Primate-Insulin-Bioinformatics-Analysis)
+### 🏆 EGFR T790M Computational Drug Discovery
 
-[![Insulin Mutation Impact Analysis](https://img.shields.io/badge/Insulin_Mutation_Impact_Analysis-1976D2?style=for-the-badge)](https://github.com/biotech-py/Insulin-Mutation-Impact-Analysis)
+Molecular docking and comparative inhibitor screening against the EGFR T790M drug-resistance mutation using AutoDock Vina and PyMOL.
 
-[![p53 AlphaFold Structure Analysis](https://img.shields.io/badge/p53_AlphaFold_Structure_Analysis-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/p53-AlphaFold-Structure-Analysis)
+### ⚠️ EGFR T790M Drug Resistance Analysis
 
-[![EGFR Gefitinib Interaction Analysis](https://img.shields.io/badge/EGFR_Gefitinib_Interaction_Analysis-00C853?style=for-the-badge)](https://github.com/biotech-py/EGFR_Gefitinib_Interaction_Analysis)
+Structural investigation of the clinically important EGFR T790M mutation and its role in resistance to first-generation EGFR inhibitors.
 
-[![EGFR T790M Drug Resistance Analysis](https://img.shields.io/badge/EGFR_T790M_Drug_Resistance_Analysis-8A2BE2?style=for-the-badge)](https://github.com/biotech-py/EGFR_T790M_Drug_Resistance_Analysis)
+### 💊 EGFR Gefitinib Interaction Analysis
+
+Protein–ligand interaction analysis of the EGFR–Gefitinib complex with binding pocket characterization and structural visualization.
+
+### 🧪 p53 AlphaFold Structure Analysis
+
+Structural analysis of the tumor suppressor protein p53 using AlphaFold predictions and bioinformatics tools.
+
+### 🧬 Insulin Mutation Impact Analysis
+
+Computational investigation of disease-associated insulin mutations and their structural consequences.
+
+### 🌍 Primate Insulin Comparative Analysis
+
+Comparative sequence and evolutionary analysis of insulin across different primate species.
 
 ---
+
+# 📚 Bioinformatics Learning Journey
+
+My bioinformatics learning pathway has progressed from sequence analysis and mutation studies to structural biology and computational drug discovery.
+
+```text
+Primate Insulin Comparative Analysis
+                ↓
+Insulin Mutation Impact Analysis
+                ↓
+p53 AlphaFold Structure Analysis
+                ↓
+EGFR Gefitinib Interaction Analysis
+                ↓
+EGFR T790M Drug Resistance Analysis
+                ↓
+EGFR T790M Computational Drug Discovery
+```
+
+### 🌱 Phase 1 — Foundations of Bioinformatics
+
+* Primate Insulin Comparative Analysis
+* Insulin Mutation Impact Analysis
+
+Focus:
+
+* Sequence analysis
+* Evolutionary bioinformatics
+* Mutation analysis
+* BioPython fundamentals
+
+### 🧬 Phase 2 — Structural Biology
+
+* p53 AlphaFold Structure Analysis
+
+Focus:
+
+* Protein structure prediction
+* AlphaFold
+* Structural visualization
+
+### 💊 Phase 3 — Protein–Ligand Interactions
+
+* EGFR Gefitinib Interaction Analysis
+
+Focus:
+
+* Binding pocket identification
+* Ligand interaction analysis
+* Therapeutic target investigation
+
+### ⚠️ Phase 4 — Drug Resistance Mechanisms
+
+* EGFR T790M Drug Resistance Analysis
+
+Focus:
+
+* Resistance mutations
+* Structural mechanisms of drug failure
+* Cancer biology
+
+### 🚀 Phase 5 — Computational Drug Discovery
+
+* EGFR T790M Computational Drug Discovery
+
+Focus:
+
+* Molecular docking
+* Virtual screening
+* Comparative inhibitor evaluation
+* Structure-based drug discovery
+
+---
+
+## 🎯 Current Interests
+
+* Structural Bioinformatics
+* Computational Drug Discovery
+* Molecular Docking
+* Cancer Biology
+* AI for Drug Discovery
+* Biomedical Data Science
+
 
 ### 🤖 AI & Biomedical Research
 

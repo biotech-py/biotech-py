@@ -1,6 +1,6 @@
 <p align="center">
   <img src="GITHUB_BANNER.png" width="100%">
-</p>
+</p> 
 
 # Hi, I'm Nirupam Joarder 👋
 

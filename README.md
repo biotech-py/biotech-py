@@ -8,9 +8,9 @@
 
 🧬 Bioinformatics | Computational Biology | Structural Biology
 
-🤖 Machine Learning | Data Analytics | AI for Biomedical Research | Computational Drug Discovery
+🤖 Machine Learning | Deep Learning | AI for Biomedical Research | Computational Drug Discovery
 
-💻 Python | Biopython | SQL | Streamlit
+💻 Python | Biopython | SQL | Streamlit | YOLOv8 | QGIS
 
 🚀 Building AI-driven solutions for bioinformatics, drug discovery, and biomedical research.
 
@@ -26,6 +26,8 @@
 * Molecular Docking
 * AI for Drug Discovery
 * Biomedical Data Science
+* Deep Learning for Medical Imaging
+* Climate & Environmental Bioinformatics
 
 ---
 
@@ -43,7 +45,6 @@
 | 🌍 **Primate Insulin Comparative Analysis** | Comparative sequence and evolutionary analysis of insulin across different primate species. |
 
 ---
-
 
 # 📚 Bioinformatics Learning Journey
 
@@ -77,20 +78,36 @@ EGFR T790M Computational Drug Discovery
 ### 🚀 Phase 5 — Computational Drug Discovery
 • EGFR T790M Computational Drug Discovery  
 
---- 
+---
 
 ### 🤖 AI & Biomedical Research
 
 [![BIOMEDICAL RESEARCH PAPER ANALYZER](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_PAPER_ANALYZER-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer)
-
 [![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://biomedical-research-paper-analyzer.streamlit.app/)
+
+[![BIOMEDICAL RESEARCH INTELLIGENCE PLATFORM](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_INTELLIGENCE_PLATFORM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform)
+
+---
+
+### 🩸 Deep Learning & Medical Imaging
+
+[![AUTOMATED BLOOD CELL DETECTION](https://img.shields.io/badge/AUTOMATED_BLOOD_CELL_DETECTION-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/automated-blood-cell-detection-deep-learning)
+
+> Deep learning-based blood cell detection, classification, and counting using YOLOv8, OpenCV, Gradio, and Hugging Face Spaces.
+
+---
+
+### 🌿 Climate & Environmental Bioinformatics
+
+[![CLIMATE STRESS MONITORING SYSTEM](https://img.shields.io/badge/CLIMATE_STRESS_MONITORING_SYSTEM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
+
+> Climate Stress Assessment using Sentinel-2 Satellite Imagery and NDVI-Based Vegetation Health Analysis with QGIS and Remote Sensing.
 
 ---
 
 ### 🦴 Biomaterials & Biomedical Engineering
 
 [![MAGNESIUM IMPLANT DIGITAL TWIN](https://img.shields.io/badge/MAGNESIUM_IMPLANT_DIGITAL_TWIN-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Magnesium_Implant_Digital_Twin)
-
 [![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/)
 
 ---
@@ -113,13 +130,14 @@ EGFR T790M Computational Drug Discovery
 * Cancer Biology
 * AI for Drug Discovery
 * Biomedical Data Science
+* Deep Learning for Medical Imaging
+* Remote Sensing & Earth Observation
 
 ---
 
 ## 🛠 Core Skills
 
 **Bioinformatics**
-
 * BioPython
 * Structural Bioinformatics
 * Protein Structure Analysis
@@ -129,22 +147,35 @@ EGFR T790M Computational Drug Discovery
 * Comparative Sequence Analysis
 * AlphaFold Structure Analysis
 
-**Programming & Analytics**
+**Deep Learning & Computer Vision**
+* YOLOv8
+* OpenCV
+* Medical Image Analysis
+* Object Detection & Classification
 
+**GIS & Remote Sensing**
+* QGIS
+* Sentinel-2 Satellite Imagery
+* NDVI Analysis
+* Earth Observation
+
+**Programming & Analytics**
 * Python
 * SQL
 * Pandas
 * NumPy
 * Matplotlib
 * Streamlit
+* Gradio
 
 **AI & Research**
-
 * Biomedical Research Analytics
 * Clinical Data Analytics
 * AI Applications in Drug Discovery
 * Generative AI Applications
 * Scientific Computing
+* Hugging Face Spaces
+
 ---
 
 ## 🚀 Currently Building
@@ -158,6 +189,8 @@ EGFR T790M Computational Drug Discovery
 📊 Transcriptomics & RNA-seq Analysis
 
 🧠 AI Applications in Drug Discovery
+
+🛰️ Advanced Remote Sensing & Climate Bioinformatics
 
 ---
 
@@ -175,7 +208,7 @@ EGFR T790M Computational Drug Discovery
 
 ## 📈 Contribution Graph
 
-[![Nirupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biotech-py\&theme=tokyo-night)](https://github.com/biotech-py)
+[![Nirupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biotech-py&theme=tokyo-night)](https://github.com/biotech-py)
 
 ---
 

@@ -86,6 +86,7 @@ EGFR T790M Computational Drug Discovery
 [![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://biomedical-research-paper-analyzer.streamlit.app/)
 
 [![BIOMEDICAL RESEARCH INTELLIGENCE PLATFORM](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_INTELLIGENCE_PLATFORM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge)](https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform)
 
 ---
 
@@ -101,6 +102,7 @@ EGFR T790M Computational Drug Discovery
 ### 🌿 Climate & Environmental Bioinformatics
 
 [![CLIMATE STRESS MONITORING SYSTEM](https://img.shields.io/badge/CLIMATE_STRESS_MONITORING_SYSTEM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
 
 > Climate Stress Assessment using Sentinel-2 Satellite Imagery and NDVI-Based Vegetation Health Analysis with QGIS and Remote Sensing.
 

@@ -92,6 +92,7 @@ EGFR T790M Computational Drug Discovery
 ### 🩸 Deep Learning & Medical Imaging
 
 [![AUTOMATED BLOOD CELL DETECTION](https://img.shields.io/badge/AUTOMATED_BLOOD_CELL_DETECTION-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/automated-blood-cell-detection-deep-learning)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector)
 
 > Deep learning-based blood cell detection, classification, and counting using YOLOv8, OpenCV, Gradio, and Hugging Face Spaces.
 

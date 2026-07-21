@@ -169,7 +169,6 @@ EGFR T790M Computational Drug Discovery
 * NumPy
 * Matplotlib
 * Streamlit
-* Gradio
 
 **AI & Research**
 * Biomedical Research Analytics

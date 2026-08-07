@@ -4,15 +4,13 @@
 
 # Hi, I'm Nirupam Joarder 👋
 
-🎓 Biotechnology Graduate | NIT Rourkela
+🤖 Junior Generative AI Engineer
 
-🧬 Bioinformatics | Computational Biology | Structural Biology
+🎓 B.Tech in Biotechnology | National Institute of Technology Rourkela
 
-🤖 Machine Learning | Deep Learning | AI for Biomedical Research | Computational Drug Discovery
+💻 Python | SQL | Data Analytics | NLP | Generative AI
 
-💻 Python | Biopython | SQL | Streamlit | YOLOv8 | QGIS
-
-🚀 Building AI-driven solutions for bioinformatics, drug discovery, and biomedical research.
+🚀 Building AI-powered applications using Python, Large Language Models, Data Analytics, and Intelligent Automation.
 
 ---
 

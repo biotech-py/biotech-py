@@ -144,7 +144,7 @@
 
 <p align="left">
 
-[![CLIMATE STRESS MONITORING SYSTEM](https://img.shields.io/badge/CLIMATE_STRESS_MONITORING_SYSTEM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
+[![GITHUB](https://img.shields.io/badge/CLIMATE_STRESS_MONITORING_SYSTEM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
 [![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
 
 </p>

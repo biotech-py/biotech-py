@@ -140,6 +140,25 @@
 
 ---
 
+## 📈 Data Science & Machine Learning
+
+<p align="left">
+
+<a href="https://github.com/biotech-py/Diabetes-Risk-Prediction-Clinical-Analytics">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge"/>
+</a>
+
+</p>
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Logistic Regression` `Power BI`
+
+> Healthcare analytics and machine learning project used to predict diabetes risk and identify key clinical risk factors through data preprocessing, exploratory analysis, and model-based prediction.
+
+
+---
+
 
 ## 🌿 Climate & Environmental Analytics
 

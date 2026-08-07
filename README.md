@@ -78,16 +78,20 @@
 
 # 🚀 Featured Projects
 
-# 🧠 LLM-Powered Research Intelligence Platform
+A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intelligent Systems projects demonstrating practical applications across NLP, predictive analytics, geospatial analytics, and digital twin technologies.
+
+---
+
+## 🧠 LLM-Powered Research Intelligence Platform
 
 <p align="left">
 
-<a href="https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://biomedicalresearchintelligenceplatform.streamlit.app/">
-<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+<a href="YOUR_LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
 </p>
@@ -100,12 +104,12 @@
 
 ---
 
-# 📊 Clinical Data Analytics Dashboard
+## 📊 Clinical Data Analytics Dashboard
 
 <p align="left">
 
-<a href="https://github.com/biotech-py/Clinical_Data_Analytics_Project">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -114,20 +118,20 @@
 
 `Python` `Pandas` `NumPy` `Power BI`
 
-> End-to-end data analytics workflow involving data preprocessing, exploratory data analysis, visualization, and interactive dashboards for data-driven decision making.
+> End-to-end data analytics application involving data preprocessing, exploratory data analysis, visualization, and interactive Power BI dashboards for data-driven decision making.
 
 ---
 
-# 🩸 Automated Blood Cell Detection & Classification
+## 🩸 Automated Blood Cell Detection & Classification
 
 <p align="left">
 
-<a href="https://github.com/biotech-py/automated-blood-cell-detection-deep-learning">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector">
-<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+<a href="YOUR_HUGGING_FACE_SPACE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
 </p>
@@ -136,16 +140,16 @@
 
 `Python` `YOLOv8` `OpenCV` `Gradio`
 
-> Deep learning application for automated blood cell detection, classification, and counting using YOLOv8 with an interactive Gradio interface.
+> Deep learning application for automated blood cell detection, classification, and counting using YOLOv8, OpenCV, and an interactive Gradio interface.
 
 ---
 
-## 📈 Data Science & Machine Learning
+## 📈 Diabetes Risk Prediction
 
 <p align="left">
 
 <a href="https://github.com/biotech-py/Diabetes-Risk-Prediction-Clinical-Analytics">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -154,18 +158,16 @@
 
 `Python` `Pandas` `NumPy` `Logistic Regression` `Power BI`
 
-> Healthcare analytics and machine learning project used to predict diabetes risk and identify key clinical risk factors through data preprocessing, exploratory analysis, and model-based prediction.
-
+> Machine learning application for diabetes risk prediction using data preprocessing, exploratory analysis, Logistic Regression, and Power BI visualization to identify key clinical risk factors.
 
 ---
 
-
-## 🌿 Climate & Environmental Analytics
+## 🌿 Climate Stress Monitoring System
 
 <p align="left">
 
 <a href="https://github.com/biotech-py/Climate-Stress-Monitoring-System">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -174,119 +176,29 @@
 
 `Python` `QGIS` `Remote Sensing` `Sentinel-2` `NDVI`
 
-> Climate stress assessment using Sentinel-2 satellite imagery and NDVI analysis to monitor vegetation health. The project processes geospatial data, computes vegetation indices, and visualizes environmental stress using QGIS and Python.
+> Remote sensing application for climate stress assessment using Sentinel-2 satellite imagery, NDVI analysis, and QGIS to monitor vegetation health and environmental conditions.
 
 ---
 
-## 🧬 Computational Drug Discovery
+## ⚙️ Magnesium Implant Digital Twin
 
 <p align="left">
 
-<a href="https://github.com/biotech-py/EGFR-T790M-Computational-Drug-Discovery">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/biotech-py/Magnesium_Implant_Digital_Twin">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
 </p>
 
 **Tech Stack**
 
-`Python` `BioPython` `RDKit` `PyMOL`
+`Python` `Streamlit` `Corrosion Analysis` `FESEM` `FTIR` `XRD`
 
-> Computational drug discovery workflow focused on the EGFR T790M mutation. The project analyzes protein–ligand interactions, molecular properties, and structural features to support lead prioritization using computational biology tools.
-
----
-
-# 🚀 Featured Projects
-
-## 🧬 Bioinformatics & Computational Biology
-
-| Project | Description |
-|----------|-------------|
-| 🏆 **EGFR T790M Computational Drug Discovery** | Molecular docking and inhibitor screening against the EGFR T790M drug-resistance mutation using AutoDock Vina and PyMOL. |
-| ⚠️ **EGFR T790M Drug Resistance Analysis** | Structural investigation of the clinically important EGFR T790M mutation and its role in resistance to first-generation EGFR inhibitors. |
-| 💊 **EGFR Gefitinib Interaction Analysis** | Protein–ligand interaction analysis of the EGFR–Gefitinib complex with binding pocket characterization and structural visualization. |
-| 🧬 **p53 AlphaFold Structure Analysis** | Structural analysis of the tumor suppressor protein p53 using AlphaFold predictions and bioinformatics tools. |
-| 🧪 **Insulin Mutation Impact Analysis** | Computational investigation of disease-associated insulin mutations and their structural consequences. |
-| 🌍 **Primate Insulin Comparative Analysis** | Comparative sequence and evolutionary analysis of insulin across different primate species. |
-
----
-
-# 📚 Bioinformatics Learning Journey
-
-```text
-Primate Insulin Comparative Analysis
-                ↓
-Insulin Mutation Impact Analysis
-                ↓
-p53 AlphaFold Structure Analysis
-                ↓
-EGFR Gefitinib Interaction Analysis
-                ↓
-EGFR T790M Drug Resistance Analysis
-                ↓
-EGFR T790M Computational Drug Discovery
-```
-
-### 🌱 Phase 1 — Foundations of Bioinformatics
-• Primate Insulin Comparative Analysis  
-• Insulin Mutation Impact Analysis  
-
-### 🧬 Phase 2 — Structural Biology
-• p53 AlphaFold Structure Analysis  
-
-### 💊 Phase 3 — Protein–Ligand Interactions
-• EGFR Gefitinib Interaction Analysis  
-
-### ⚠️ Phase 4 — Drug Resistance Mechanisms
-• EGFR T790M Drug Resistance Analysis  
-
-### 🚀 Phase 5 — Computational Drug Discovery
-• EGFR T790M Computational Drug Discovery  
-
----
-
-### 🤖 AI & Biomedical Research
-
-[![BIOMEDICAL RESEARCH PAPER ANALYZER](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_PAPER_ANALYZER-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer)
-[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://biomedical-research-paper-analyzer.streamlit.app/)
-
-[![BIOMEDICAL RESEARCH INTELLIGENCE PLATFORM](https://img.shields.io/badge/BIOMEDICAL_RESEARCH_INTELLIGENCE_PLATFORM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform)
-[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge)](https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform)
-
----
-
-### 🩸 Deep Learning & Medical Imaging
-
-[![AUTOMATED BLOOD CELL DETECTION](https://img.shields.io/badge/AUTOMATED_BLOOD_CELL_DETECTION-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/automated-blood-cell-detection-deep-learning)
-[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector)
-
-> Deep learning-based blood cell detection, classification, and counting using YOLOv8, OpenCV, Gradio, and Hugging Face Spaces.
-
----
-
-### 🌿 Climate & Environmental Bioinformatics
-
-[![CLIMATE STRESS MONITORING SYSTEM](https://img.shields.io/badge/CLIMATE_STRESS_MONITORING_SYSTEM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
-[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
-
-> Climate Stress Assessment using Sentinel-2 Satellite Imagery and NDVI-Based Vegetation Health Analysis with QGIS and Remote Sensing.
-
----
-
-### 🦴 Biomaterials & Biomedical Engineering
-
-[![MAGNESIUM IMPLANT DIGITAL TWIN](https://img.shields.io/badge/MAGNESIUM_IMPLANT_DIGITAL_TWIN-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Magnesium_Implant_Digital_Twin)
-[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://magnesiumimplantdigitaltwin-96wkxuah2fmz2pbkhphhux.streamlit.app/)
-
----
-
-### 📊 Healthcare Analytics & Machine Learning
-
-[![Diabetes Risk Prediction & Clinical Analytics](https://img.shields.io/badge/Diabetes_Risk_Prediction_&_Clinical_Analytics-View_Project-red?style=for-the-badge)](https://github.com/biotech-py/Diabetes-Risk-Prediction-Clinical-Analytics)
-
-[![Clinical Data Analytics](https://img.shields.io/badge/Clinical_Data_Analytics-View_Project-blue?style=for-the-badge)](https://github.com/biotech-py/Clinical_Data_Analytics_Project)
-
-[![Biomedical EDA](https://img.shields.io/badge/Biomedical_EDA-View_Project-green?style=for-the-badge)](https://github.com/biotech-py/Biomedical_EDA_Project)
+> AI-powered digital twin application for magnesium implant evaluation using corrosion, wettability, adhesion, FESEM, FTIR, and XRD characterization data to support biomaterials analysis.
 
 ---
 

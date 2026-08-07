@@ -261,7 +261,6 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 - AI Agents & Agentic Systems
 - Machine Learning & Data Analytics
 - Computer Vision Applications
-- Cloud-Native AI Solutions
 
 ---
 

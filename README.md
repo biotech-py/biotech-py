@@ -251,7 +251,6 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 - Digital Twin Applications
 
 ---
----
 
 # 🎯 Current Interests
 

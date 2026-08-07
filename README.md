@@ -8,9 +8,9 @@
 
 🎓 B.Tech in Biotechnology | National Institute of Technology Rourkela
 
-💻 Python | SQL | Data Analytics | NLP | Generative AI
+💻 Python • SQL • Data Analytics • NLP • Generative AI
 
-🚀 Building AI-powered applications using Python, Large Language Models, Data Analytics, and Intelligent Automation.
+🚀 Passionate about building AI-powered applications, intelligent data solutions, and real-world Generative AI systems.
 
 ---
 

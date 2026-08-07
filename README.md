@@ -140,21 +140,24 @@
 
 ---
 
-# 🌍 Climate Stress Monitoring System
+
+## 🌿 Climate & Environmental Analytics
 
 <p align="left">
 
-[![GITHUB](https://img.shields.io/badge/CLIMATE_STRESS_MONITORING_SYSTEM-4A4A4A?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
-[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System)
+<a href="https://github.com/biotech-py/Climate-Stress-Monitoring-System">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 **Tech Stack**
 
-`Python` `QGIS` `Remote Sensing`
+`Python` `QGIS` `Remote Sensing` `Sentinel-2` `NDVI`
 
-> Satellite imagery analytics workflow using Sentinel-2 data and NDVI analysis to assess vegetation health and monitor climate stress.
+> Climate stress assessment using Sentinel-2 satellite imagery and NDVI analysis to monitor vegetation health. The project processes geospatial data, computes vegetation indices, and visualizes environmental stress using QGIS and Python.
 
+---
 ---
 
 # 🧬 EGFR T790M Computational Drug Discovery

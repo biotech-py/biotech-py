@@ -82,15 +82,15 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
-## 🧠 LLM-Powered Research Intelligence Platform
+## 🧠 Biomedical Research Intelligence Platform
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<a href="https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LIVE_DEMO_LINK">
+<a href="https://biomedicalresearchintelligenceplatform.streamlit.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
@@ -108,7 +108,7 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<a href="https://github.com/biotech-py/Clinical_Data_Analytics_Project">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -126,11 +126,11 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPOSITORY_LINK">
+<a href="https://github.com/biotech-py/automated-blood-cell-detection-deep-learning">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_HUGGING_FACE_SPACE_LINK">
+<a href="https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
@@ -201,6 +201,7 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 > AI-powered digital twin application for magnesium implant evaluation using corrosion, wettability, adhesion, FESEM, FTIR, and XRD characterization data to support biomaterials analysis.
 
 ---
+
 
 ## 🎯 Current Interests
 

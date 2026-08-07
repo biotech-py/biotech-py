@@ -202,60 +202,55 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
+# 💼 Technical Focus Areas
 
-## 🎯 Current Interests
+### 🤖 Generative AI & AI Applications
 
-* Computational Drug Discovery
-* Structural Bioinformatics
-* Molecular Docking & Virtual Screening
-* Cancer Biology
-* AI for Drug Discovery
-* Biomedical Data Science
-* Deep Learning for Medical Imaging
-* Remote Sensing & Earth Observation
+- LLM Applications
+- Prompt Engineering
+- AI-Powered Document Analysis
+- Research Paper Analysis
+- Google Gemini AI
 
 ---
 
-## 🛠 Core Skills
+### 📊 Data Analytics & Machine Learning
 
-**Bioinformatics**
-* BioPython
-* Structural Bioinformatics
-* Protein Structure Analysis
-* Protein–Ligand Interaction Analysis
-* Molecular Docking (AutoDock Vina)
-* Binding Pocket Analysis
-* Comparative Sequence Analysis
-* AlphaFold Structure Analysis
+- Exploratory Data Analysis
+- Predictive Analytics
+- Machine Learning
+- Data Visualization
+- Power BI Dashboards
 
-**Deep Learning & Computer Vision**
-* YOLOv8
-* OpenCV
-* Medical Image Analysis
-* Object Detection & Classification
+---
 
-**GIS & Remote Sensing**
-* QGIS
-* Sentinel-2 Satellite Imagery
-* NDVI Analysis
-* Earth Observation
+### 👁️ Computer Vision
 
-**Programming & Analytics**
-* Python
-* SQL
-* Pandas
-* NumPy
-* Matplotlib
-* Streamlit
+- Object Detection
+- Image Classification
+- YOLOv8
+- OpenCV
+- Medical Image Analysis
 
-**AI & Research**
-* Biomedical Research Analytics
-* Clinical Data Analytics
-* AI Applications in Drug Discovery
-* Generative AI Applications
-* Scientific Computing
-* Hugging Face Spaces
+---
 
+### 🌍 Geospatial Analytics
+
+- Remote Sensing
+- Sentinel-2
+- NDVI Analysis
+- QGIS
+
+---
+
+### ⚙️ Scientific Computing & Digital Twins
+
+- Streamlit Applications
+- Scientific Data Visualization
+- Biomaterials Analytics
+- Digital Twin Applications
+
+---
 ---
 
 ## 🚀 Currently Building

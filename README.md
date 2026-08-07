@@ -82,11 +82,11 @@
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LIVE_DEMO">
+<a href="https://biomedicalresearchintelligenceplatform.streamlit.app/">
 <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
 </a>
 

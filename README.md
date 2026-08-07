@@ -82,15 +82,15 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
-## 🧠 Biomedical Research Intelligence Platform
+## 🧠 Biomedical Research Paper Analyzer
 
 <p align="left">
 
-<a href="https://github.com/biotech-py/Biomedical_Research_Intelligence_Platform">
+<a href="https://github.com/biotech-py/Biomedical-Research-Paper-Analyzer">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://biomedicalresearchintelligenceplatform.streamlit.app/">
+<a href="https://biomedical-research-paper-analyzer.streamlit.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
 
@@ -98,9 +98,9 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 **Tech Stack**
 
-`Python` `Transformers` `NLP` `Streamlit`
+`Python` `Streamlit` `Google Gemini AI` `PyMuPDF` `ReportLab`
 
-> AI-powered platform for biomedical literature summarization, biomedical entity extraction, and interactive research analytics using Transformer-based NLP models.
+> AI-powered application for analyzing biomedical research papers. Upload a research paper PDF to automatically generate structured summaries, assess research quality, identify key findings, detect research gaps, suggest future research directions, answer questions about the paper, and generate a downloadable analysis report.
 
 ---
 

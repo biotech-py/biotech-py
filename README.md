@@ -253,19 +253,16 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 ---
 ---
 
-## 🚀 Currently Building
+# 🎯 Current Interests
 
-🤖 AI Drug Discovery Scientist Roadmap
-
-⚗️ Advanced Molecular Docking & Virtual Screening
-
-🧬 Molecular Dynamics Simulations (GROMACS)
-
-📊 Transcriptomics & RNA-seq Analysis
-
-🧠 AI Applications in Drug Discovery
-
-🛰️ Advanced Remote Sensing & Climate Bioinformatics
+- Generative AI & Large Language Models (LLMs)
+- Prompt Engineering & AI Workflows
+- Intelligent Document Processing
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Agentic Systems
+- Machine Learning & Data Analytics
+- Computer Vision Applications
+- Cloud-Native AI Solutions
 
 ---
 

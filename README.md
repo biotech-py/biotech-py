@@ -144,7 +144,7 @@
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://img.shields.io/badge/VIEW_PROJECT-2196F3?style=for-the-badge)](https://github.com/biotech-py/Climate-Stress-Monitoring-System">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 

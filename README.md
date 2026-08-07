@@ -24,6 +24,58 @@
 
 --- 
 
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🤖 AI & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-009688?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+
+---
+
+### 📊 Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+---
+
+### 🖥️ Computer Vision
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+---
+
+### 🌍 Geospatial Analytics
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-2E8B57?style=for-the-badge)
+
+---
+
+### 🚀 Deployment & Development
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Gradio](https://img.shields.io/badge/Gradio-FF9800?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+---
+
 # 🚀 Featured Projects
 
 ## 🧬 Bioinformatics & Computational Biology

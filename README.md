@@ -78,6 +78,27 @@
 
 # 🚀 Featured Projects
 
+## 🤖 AI Applications
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🧠 **Biomedical Research Intelligence Platform** | AI-powered platform for biomedical literature summarization, entity extraction, and interactive research analytics. | Python • Transformers • NLP • Streamlit |
+| 🩸 **Automated Blood Cell Detection & Classification** | Deep learning application for automated blood cell detection, classification, and counting using computer vision techniques. | Python • YOLOv8 • OpenCV • Gradio |
+| 📊 **Clinical Data Analytics Dashboard** | End-to-end data analytics workflow involving data preprocessing, exploratory analysis, and interactive Power BI dashboards. | Python • Pandas • NumPy • Power BI |
+| 🌿 **Climate Stress Monitoring System** | Remote sensing workflow for vegetation health assessment using Sentinel-2 imagery and NDVI analysis. | Python • QGIS • Remote Sensing |
+
+---
+
+## 🧪 Additional Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🧬 **EGFR T790M Computational Drug Discovery** | Computational workflow for protein-ligand interaction analysis and lead prioritization. | BioPython • RDKit • PyMOL |
+
+---
+
+# 🚀 Featured Projects
+
 ## 🧬 Bioinformatics & Computational Biology
 
 | Project | Description |

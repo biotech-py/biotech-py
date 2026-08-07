@@ -13,7 +13,16 @@
 🚀 Passionate about building AI-powered applications, intelligent data solutions, and real-world Generative AI systems.
 
 ---
+## 🚀 About Me
 
+- 🤖 Junior Generative AI Engineer passionate about building AI-powered applications using Python and Large Language Models.
+- 💻 Experienced in Python, SQL, Data Analytics, NLP, and developing end-to-end AI applications.
+- 📊 Interested in transforming raw data into intelligent, data-driven solutions through analytics and automation.
+- 🧠 Built projects in Generative AI, Biomedical NLP, Computer Vision, Data Analytics, and Remote Sensing.
+- 🌱 Currently exploring Retrieval-Augmented Generation (RAG), Prompt Engineering, and modern Generative AI workflows.
+- 🚀 Always learning, building, and exploring new AI technologies.
+
+--- 
 ## 🔬 Research Interests
 
 * Structural Bioinformatics

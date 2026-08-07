@@ -276,6 +276,14 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/biotech-py/biotech-py/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 # 📬 Let's Connect
 
 <p align="center">

@@ -23,20 +23,6 @@
 - 🚀 Always learning, building, and exploring new AI technologies.
 
 --- 
-## 🔬 Research Interests
-
-* Structural Bioinformatics
-* Protein Structure Analysis
-* Protein-Ligand Interaction Analysis
-* Computational Drug Discovery
-* Cancer Biology
-* Molecular Docking
-* AI for Drug Discovery
-* Biomedical Data Science
-* Deep Learning for Medical Imaging
-* Climate & Environmental Bioinformatics
-
----
 
 # 🚀 Featured Projects
 

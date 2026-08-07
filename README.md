@@ -276,9 +276,9 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
-# 📫 Connect With Me
+# 📬 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:joardernirupam@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -296,4 +296,4 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
-⭐ Exploring the intersection of Bioinformatics, Computational Biology, AI, and Drug Discovery.
+⭐ Passionate about building practical AI applications that solve real-world problems using Generative AI, Machine Learning, and Data Analytics.

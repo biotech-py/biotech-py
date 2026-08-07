@@ -78,23 +78,106 @@
 
 # 🚀 Featured Projects
 
-## 🤖 AI Applications
+# 🧠 LLM-Powered Research Intelligence Platform
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🧠 **Biomedical Research Intelligence Platform** | AI-powered platform for biomedical literature summarization, entity extraction, and interactive research analytics. | Python • Transformers • NLP • Streamlit |
-| 🩸 **Automated Blood Cell Detection & Classification** | Deep learning application for automated blood cell detection, classification, and counting using computer vision techniques. | Python • YOLOv8 • OpenCV • Gradio |
-| 📊 **Clinical Data Analytics Dashboard** | End-to-end data analytics workflow involving data preprocessing, exploratory analysis, and interactive Power BI dashboards. | Python • Pandas • NumPy • Power BI |
-| 🌿 **Climate Stress Monitoring System** | Remote sensing workflow for vegetation health assessment using Sentinel-2 imagery and NDVI analysis. | Python • QGIS • Remote Sensing |
+<p align="left">
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
+
+</p>
+
+**Tech Stack**
+
+`Python` `Transformers` `NLP` `Streamlit`
+
+> AI-powered platform for biomedical literature summarization, biomedical entity extraction, and interactive research analytics using Transformer-based NLP models.
 
 ---
 
-## 🧪 Additional Projects
+# 📊 Clinical Data Analytics Dashboard
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🧬 **EGFR T790M Computational Drug Discovery** | Computational workflow for protein-ligand interaction analysis and lead prioritization. | BioPython • RDKit • PyMOL |
+<p align="left">
 
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Power BI`
+
+> End-to-end data analytics workflow involving data preprocessing, exploratory data analysis, visualization, and interactive dashboards for data-driven decision making.
+
+---
+
+# 🩸 Automated Blood Cell Detection & Classification
+
+<p align="left">
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_HUGGINGFACE_SPACE">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
+</a>
+
+</p>
+
+**Tech Stack**
+
+`Python` `YOLOv8` `OpenCV` `Gradio`
+
+> Deep learning application for automated blood cell detection, classification, and counting using YOLOv8 with an interactive Gradio interface.
+
+---
+
+# 🌍 Climate Stress Monitoring System
+
+<p align="left">
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+**Tech Stack**
+
+`Python` `QGIS` `Remote Sensing`
+
+> Satellite imagery analytics workflow using Sentinel-2 data and NDVI analysis to assess vegetation health and monitor climate stress.
+
+---
+
+# 🧬 EGFR T790M Computational Drug Discovery
+
+<p align="left">
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+**Tech Stack**
+
+`BioPython` `RDKit` `PyMOL`
+
+> Computational workflow for protein–ligand interaction analysis and lead prioritization using structural bioinformatics tools.
+
+---
+
+---
+---
 ---
 
 # 🚀 Featured Projects

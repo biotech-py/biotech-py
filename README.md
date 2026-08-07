@@ -158,13 +158,12 @@
 > Climate stress assessment using Sentinel-2 satellite imagery and NDVI analysis to monitor vegetation health. The project processes geospatial data, computes vegetation indices, and visualizes environmental stress using QGIS and Python.
 
 ---
----
 
-# 🧬 EGFR T790M Computational Drug Discovery
+## 🧬 Computational Drug Discovery
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/biotech-py/EGFR-T790M-Computational-Drug-Discovery">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -172,14 +171,10 @@
 
 **Tech Stack**
 
-`BioPython` `RDKit` `PyMOL`
+`Python` `BioPython` `RDKit` `PyMOL`
 
-> Computational workflow for protein–ligand interaction analysis and lead prioritization using structural bioinformatics tools.
+> Computational drug discovery workflow focused on the EGFR T790M mutation. The project analyzes protein–ligand interactions, molecular properties, and structural features to support lead prioritization using computational biology tools.
 
----
-
----
----
 ---
 
 # 🚀 Featured Projects

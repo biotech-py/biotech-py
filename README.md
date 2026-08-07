@@ -104,7 +104,7 @@
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/biotech-py/Clinical_Data_Analytics_Project">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -122,11 +122,11 @@
 
 <p align="left">
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/biotech-py/automated-blood-cell-detection-deep-learning">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_HUGGINGFACE_SPACE">
+<a href="https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector">
 <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge"/>
 </a>
 

@@ -277,12 +277,6 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
-## 📈 Contribution Graph
-
-[![Nirupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biotech-py&theme=tokyo-night)](https://github.com/biotech-py)
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: [joardernirupam@gmail.com](mailto:joardernirupam@gmail.com)

@@ -59,7 +59,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 ---
-
+ 
 ### 🌍 Geospatial Analytics
 
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis)

@@ -41,7 +41,7 @@
 ![NLP](https://img.shields.io/badge/NLP-009688?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-
+ 
 ---
 
 ### 📊 Data Analytics

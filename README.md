@@ -285,7 +285,7 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 ---
 
-# 📬 Let's Connect
+# 📬 Let's Connect    
 
 <p align="center">
 

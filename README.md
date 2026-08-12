@@ -139,7 +139,7 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 **Tech Stack**
 
-`Python` `YOLOv8` `OpenCV` `Gradio`
+`Python` `YOLOv8` `OpenCV` 
 
 > Deep learning application for automated blood cell detection, classification, and counting using YOLOv8, OpenCV, and an interactive Gradio interface.
 

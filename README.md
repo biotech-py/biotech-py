@@ -61,7 +61,7 @@
 ---
  
 ### 🌍 Geospatial Analytics
-
+ 
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis)
 ![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-2E8B57?style=for-the-badge)
 

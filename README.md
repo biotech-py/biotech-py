@@ -11,7 +11,7 @@
 💻 Python • SQL • Data Analytics • NLP • Generative AI
 
 🚀 Passionate about building AI-powered applications, intelligent data solutions, and real-world Generative AI systems.
-
+ 
 ---
 ## 🚀 About Me
 

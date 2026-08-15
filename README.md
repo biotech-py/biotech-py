@@ -119,7 +119,7 @@ A collection of AI, Machine Learning, Data Analytics, Computer Vision, and Intel
 
 `Python` `Pandas` `NumPy` `Power BI`
 
-> End-to-end data analytics application involving data preprocessing, exploratory data analysis, visualization, and interactive Power BI dashboards for data-driven decision making.
+> End-to-end data analytics application involving data preprocessing, exploratory data analysis, visualization, and interactive Power BI dashboards for data-driven decision-making.
 
 ---
 

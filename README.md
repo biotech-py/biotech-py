@@ -3,7 +3,7 @@
 </p> 
   
 # Hi, I'm Nirupam Joarder 👋 
-
+ 
 🤖 Junior Generative AI Engineer
 
 🎓 B.Tech in Biotechnology | National Institute of Technology Rourkela

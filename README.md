@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%">   
 </p> 
   
-# Hi, I'm Nirupam Joarder 👋        
+# Hi, I'm Nirupam Joarder 👋  
  
 🤖 Junior Generative AI Engineer
 

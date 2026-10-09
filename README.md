@@ -4,9 +4,9 @@
     
 # Hi, I'm Nirupam Joarder 👋     
  
-🤖 Junior Generative AI Engineer
+🤖 Generative AI Engineer
 
-🎓 B.Tech in Biotechnology | National Institute of Technology Rourkela
+🎓 B.Tech | National Institute of Technology Rourkela
 
 💻 Python • SQL • Data Analytics • NLP • Generative AI
 
